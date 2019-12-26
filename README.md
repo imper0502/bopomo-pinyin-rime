@@ -3,6 +3,7 @@
 #### 部落格三個注音方案連結：http://deltazone.pixnet.net/blog/category/11823230
 #### 部落格拼音方案連結：http://deltazone.pixnet.net/blog/post/353697089
 #### 
+#### essay.txt 《八股文》修改符合台灣慣用字
 #### terra_pinyin_onion.dict.yaml 《字庫&詞庫》原地球拼音增修
 #### terra_pinyin_onion_add.dict.yaml 《字庫》補充慣用發音和避免空碼故意附加之發音
 #### phrases.chtp.dict.yaml 《詞庫》附加帶調拼音之詞庫
