@@ -13,5 +13,7 @@
 #### symbols_bpmf.schema.yaml  符號 & Emoji 方案〈掛載於注音方案〉
 #### symbols_bpmf.dict.yaml  符號 & Emoji 字典〈掛載於注音方案〉
 ---
+##### 許多 Rime 詞庫為不帶拼音（編碼），好處是容易 mapping ，不好之處是如破音字會出現在不該為此發音之選單中，整理二十六萬多字帶拼音和聲調之詞庫。
+---
 #### ※ Commercial use is prohibited
 #### ※ 請勿使用於商業營利相關行為
