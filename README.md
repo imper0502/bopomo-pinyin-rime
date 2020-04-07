@@ -1,5 +1,6 @@
 # bopomo-pinyin-rime
 #### 預計把 Rime 三個注音方案和一個拼音方案，從部落格轉移過來。
+#### （但四個主方案和一堆附屬方案交替關聯，目前還在思考如何分類）
 #### 部落格三個注音方案連結：http://deltazone.pixnet.net/blog/category/11823230
 #### 部落格拼音方案連結：http://deltazone.pixnet.net/blog/post/353697089
 ---
