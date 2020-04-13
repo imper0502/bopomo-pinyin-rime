@@ -1,20 +1,18 @@
 # bopomo-pinyin-rime
-#### 預計把 Rime 三個注音方案和一個拼音方案，從部落格轉移過來。
-#### （但四個主方案和一堆附屬方案交替關聯，目前還在思考如何分類）
-#### 部落格三個注音方案連結：http://deltazone.pixnet.net/blog/category/11823230
-#### 部落格拼音方案連結：http://deltazone.pixnet.net/blog/post/353697089
+## 說明：
+- 預計把 Rime 三個注音方案和一個拼音方案，從部落格轉移過來。但四個主方案和一堆附屬方案交替關聯，目前還在思考如何分類和方便作業。
+- 部落格三個注音方案連結：http://deltazone.pixnet.net/blog/category/11823230
+- 部落格拼音方案連結：http://deltazone.pixnet.net/blog/post/353697089
 
 ## 字詞庫說明：
 #### 許多 Rime 詞庫為不帶拼音（編碼），好處是容易 mapping ，不好之處是如破音字會出現在不該為此發音之選單中，整理二十九萬多字帶拼音和聲調之詞庫。
-- essay.txt 《八股文》修改符合台灣習慣用字
-
-- terra_pinyin_onion.dict.yaml 《字庫&詞庫》原地球拼音增修（字典有的發音）
-- terra_pinyin_onion_add.dict.yaml 《字庫》補充慣用發音（字典沒有的）和避免空碼產生問題刻意附加之發音
-- phrases.chtp.dict.yaml 《詞庫》附加帶調拼音
-- phrases.cht.dict.yaml 《詞庫》無附加拼音
-
-- symbols_bpmf.schema.yaml  符號 & Emoji 方案〈掛載於注音方案〉
-- symbols_bpmf.dict.yaml  符號 & Emoji 字典〈掛載於注音方案〉
+- essay.txt 《八股文》修改符合台灣習慣用字，並修改詞頻。
+- terra_pinyin_onion.dict.yaml 《字庫&詞庫》原地球拼音增修，補充字典有的「字」發音，「詞」改成臺灣習慣之用字和發音。
+- terra_pinyin_onion_add.dict.yaml 《字庫》補充慣用但非正確之發音，且增加避免空碼產生問題而刻意附加之發音。
+- phrases.chtp.dict.yaml 《詞庫》附加帶調拼音。
+- phrases.cht.dict.yaml 《詞庫》無附加拼音。
+- symbols_bpmf.schema.yaml  〈掛載於注音方案〉符號 & Emoji 方案。
+- symbols_bpmf.dict.yaml  〈掛載於注音方案〉符號 & Emoji 字典。
 
 ## 原則：
 - 「字」以兩岸字典有的發音都收錄為目標。
